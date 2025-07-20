@@ -1,0 +1,3 @@
+On day 2,We were given the task of installing Kali Linux and Virtual box and to set up a secure environment for the future classes.
+While installing Kali Linux,I faced some issues while powering on the virtual box.
+I rectified this by following a YouTube video,the error was that i hadn't extracted the files properly before powering on Kali Linux.I installed 7zip and then extracted the files after which Kali Linux ran smoothly without any issues.
